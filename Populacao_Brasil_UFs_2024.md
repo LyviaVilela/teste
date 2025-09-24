@@ -33,4 +33,4 @@
 | Mato Grosso                                                                                          | 3.836.399            |  
 | Goiás                                                                                                | 7.350.483            |  
 | Distrito Federal                                                                                     | 2.982.818            | 
-| Fonte: IBGE. Diretoria de Pesquisas - DPE -  Coordenação de População e Indicadores Sociais - COPIS.                                                | 
+|           Fonte: IBGE. Diretoria de Pesquisas - DPE -  Coordenação de População e Indicadores Sociais - COPIS.              | 
