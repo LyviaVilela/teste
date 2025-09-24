@@ -1,172 +1,172 @@
-| UF                                                                                                   |   COD. UF |   COD. MUNIC | NOME DO MUNICÍPIO                |  POPULAÇÃO ESTIMADA    |   nan |   nan |   nan |   nan |   nan |   nan |
-|:-----------------------------------------------------------------------------------------------------|----------:|-------------:|:---------------------------------|:-----------------------|------:|------:|------:|------:|------:|------:|
-| RO                                                                                                   |        11 |           15 | Alta Floresta D'Oeste            | 22.853                 |   nan |   nan |   nan |   nan |   nan |   nan |
-| RO                                                                                                   |        11 |           23 | Ariquemes                        | 108.573                |   nan |   nan |   nan |   nan |   nan |   nan |
-| RO                                                                                                   |        11 |           31 | Cabixi                           | 5.690                  |   nan |   nan |   nan |   nan |   nan |   nan |
-| RO                                                                                                   |        11 |           49 | Cacoal                           | 97.637                 |   nan |   nan |   nan |   nan |   nan |   nan |
-| RO                                                                                                   |        11 |           56 | Cerejeiras                       | 16.975                 |   nan |   nan |   nan |   nan |   nan |   nan |
-| RO                                                                                                   |        11 |           64 | Colorado do Oeste                | 16.588                 |   nan |   nan |   nan |   nan |   nan |   nan |
-| RO                                                                                                   |        11 |           72 | Corumbiara                       | 8.001                  |   nan |   nan |   nan |   nan |   nan |   nan |
-| RO                                                                                                   |        11 |           80 | Costa Marques                    | 13.522                 |   nan |   nan |   nan |   nan |   nan |   nan |
-| RO                                                                                                   |        11 |           98 | Espigão D'Oeste                  | 32.717                 |   nan |   nan |   nan |   nan |   nan |   nan |
-| RO                                                                                                   |        11 |          106 | Guajará-Mirim                    | 43.553                 |   nan |   nan |   nan |   nan |   nan |   nan |
-| RO                                                                                                   |        11 |          114 | Jaru                             | 55.583                 |   nan |   nan |   nan |   nan |   nan |   nan |
-| RO                                                                                                   |        11 |          122 | Ji-Paraná                        | 139.359                |   nan |   nan |   nan |   nan |   nan |   nan |
-| RO                                                                                                   |        11 |          130 | Machadinho D'Oeste               | 34.063                 |   nan |   nan |   nan |   nan |   nan |   nan |
-| RO                                                                                                   |        11 |          148 | Nova Brasilândia D'Oeste         | 16.504                 |   nan |   nan |   nan |   nan |   nan |   nan |
-| RO                                                                                                   |        11 |          155 | Ouro Preto do Oeste              | 38.681                 |   nan |   nan |   nan |   nan |   nan |   nan |
-| RO                                                                                                   |        11 |          189 | Pimenta Bueno                    | 39.053                 |   nan |   nan |   nan |   nan |   nan |   nan |
-| RO                                                                                                   |        11 |          205 | Porto Velho                      | 514.873                |   nan |   nan |   nan |   nan |   nan |   nan |
-| RO                                                                                                   |        11 |          254 | Presidente Médici                | 20.518                 |   nan |   nan |   nan |   nan |   nan |   nan |
-| RO                                                                                                   |        11 |          262 | Rio Crespo                       | 3.753                  |   nan |   nan |   nan |   nan |   nan |   nan |
-| RO                                                                                                   |        11 |          288 | Rolim de Moura                   | 62.559                 |   nan |   nan |   nan |   nan |   nan |   nan |
-| RO                                                                                                   |        11 |          296 | Santa Luzia D'Oeste              | 7.877                  |   nan |   nan |   nan |   nan |   nan |   nan |
-| RO                                                                                                   |        11 |          304 | Vilhena                          | 108.528                |   nan |   nan |   nan |   nan |   nan |   nan |
-| RO                                                                                                   |        11 |          320 | São Miguel do Guaporé            | 22.267                 |   nan |   nan |   nan |   nan |   nan |   nan |
-| RO                                                                                                   |        11 |          338 | Nova Mamoré                      | 28.496                 |   nan |   nan |   nan |   nan |   nan |   nan |
-| RO                                                                                                   |        11 |          346 | Alvorada D'Oeste                 | 13.837                 |   nan |   nan |   nan |   nan |   nan |   nan |
-| RO                                                                                                   |        11 |          379 | Alto Alegre dos Parecis          | 12.263                 |   nan |   nan |   nan |   nan |   nan |   nan |
-| RO                                                                                                   |        11 |          403 | Alto Paraíso                     | 17.463                 |   nan |   nan |   nan |   nan |   nan |   nan |
-| RO                                                                                                   |        11 |          452 | Buritis                          | 30.729                 |   nan |   nan |   nan |   nan |   nan |   nan |
-| RO                                                                                                   |        11 |          502 | Novo Horizonte do Oeste          | 8.056                  |   nan |   nan |   nan |   nan |   nan |   nan |
-| RO                                                                                                   |        11 |          601 | Cacaulândia                      | 4.345                  |   nan |   nan |   nan |   nan |   nan |   nan |
-| RO                                                                                                   |        11 |          700 | Campo Novo de Rondônia           | 9.225                  |   nan |   nan |   nan |   nan |   nan |   nan |
-| RO                                                                                                   |        11 |          809 | Candeias do Jamari               | 24.163                 |   nan |   nan |   nan |   nan |   nan |   nan |
-| RO                                                                                                   |        11 |          908 | Castanheiras                     | 3.456                  |   nan |   nan |   nan |   nan |   nan |   nan |
-| RO                                                                                                   |        11 |          924 | Chupinguaia                      | 10.129                 |   nan |   nan |   nan |   nan |   nan |   nan |
-| RO                                                                                                   |        11 |          940 | Cujubim                          | 15.883                 |   nan |   nan |   nan |   nan |   nan |   nan |
-| RO                                                                                                   |        11 |         1005 | Governador Jorge Teixeira        | 8.420                  |   nan |   nan |   nan |   nan |   nan |   nan |
-| RO                                                                                                   |        11 |         1104 | Itapuã do Oeste                  | 9.209                  |   nan |   nan |   nan |   nan |   nan |   nan |
-| RO                                                                                                   |        11 |         1203 | Ministro Andreazza               | 6.657                  |   nan |   nan |   nan |   nan |   nan |   nan |
-| RO                                                                                                   |        11 |         1302 | Mirante da Serra                 | 9.740                  |   nan |   nan |   nan |   nan |   nan |   nan |
-| RO                                                                                                   |        11 |         1401 | Monte Negro                      | 12.241                 |   nan |   nan |   nan |   nan |   nan |   nan |
-| RO                                                                                                   |        11 |         1435 | Nova União                       | 6.577                  |   nan |   nan |   nan |   nan |   nan |   nan |
-| RO                                                                                                   |        11 |         1450 | Parecis                          | 4.390                  |   nan |   nan |   nan |   nan |   nan |   nan |
-| RO                                                                                                   |        11 |         1468 | Pimenteiras do Oeste             | 2.311                  |   nan |   nan |   nan |   nan |   nan |   nan |
-| RO                                                                                                   |        11 |         1476 | Primavera de Rondônia            | 3.279                  |   nan |   nan |   nan |   nan |   nan |   nan |
-| RO                                                                                                   |        11 |         1484 | São Felipe D'Oeste               | 5.605                  |   nan |   nan |   nan |   nan |   nan |   nan |
-| RO                                                                                                   |        11 |         1492 | São Francisco do Guaporé         | 17.511                 |   nan |   nan |   nan |   nan |   nan |   nan |
-| RO                                                                                                   |        11 |         1500 | Seringueiras                     | 12.954                 |   nan |   nan |   nan |   nan |   nan |   nan |
-| RO                                                                                                   |        11 |         1559 | Teixeirópolis                    | 4.536                  |   nan |   nan |   nan |   nan |   nan |   nan |
-| RO                                                                                                   |        11 |         1609 | Theobroma                        | 8.540                  |   nan |   nan |   nan |   nan |   nan |   nan |
-| RO                                                                                                   |        11 |         1708 | Urupá                            | 11.377                 |   nan |   nan |   nan |   nan |   nan |   nan |
-| RO                                                                                                   |        11 |         1757 | Vale do Anari                    | 8.265                  |   nan |   nan |   nan |   nan |   nan |   nan |
-| RO                                                                                                   |        11 |         1807 | Vale do Paraíso                  | 6.843                  |   nan |   nan |   nan |   nan |   nan |   nan |
-| AC                                                                                                   |        12 |           13 | Acrelândia                       | 14.657                 |   nan |   nan |   nan |   nan |   nan |   nan |
-| AC                                                                                                   |        12 |           54 | Assis Brasil                     | 8.573                  |   nan |   nan |   nan |   nan |   nan |   nan |
-| AC                                                                                                   |        12 |          104 | Brasiléia                        | 27.841                 |   nan |   nan |   nan |   nan |   nan |   nan |
-| AC                                                                                                   |        12 |          138 | Bujari                           | 13.766                 |   nan |   nan |   nan |   nan |   nan |   nan |
-| AC                                                                                                   |        12 |          179 | Capixaba                         | 10.922                 |   nan |   nan |   nan |   nan |   nan |   nan |
-| AC                                                                                                   |        12 |          203 | Cruzeiro do Sul                  | 98.382                 |   nan |   nan |   nan |   nan |   nan |   nan |
-| AC                                                                                                   |        12 |          252 | Epitaciolândia                   | 19.739                 |   nan |   nan |   nan |   nan |   nan |   nan |
-| AC                                                                                                   |        12 |          302 | Feijó                            | 37.644                 |   nan |   nan |   nan |   nan |   nan |   nan |
-| AC                                                                                                   |        12 |          328 | Jordão                           | 9.787                  |   nan |   nan |   nan |   nan |   nan |   nan |
-| AC                                                                                                   |        12 |          336 | Mâncio Lima                      | 20.329                 |   nan |   nan |   nan |   nan |   nan |   nan |
-| AC                                                                                                   |        12 |          344 | Manoel Urbano                    | 12.776                 |   nan |   nan |   nan |   nan |   nan |   nan |
-| AC                                                                                                   |        12 |          351 | Marechal Thaumaturgo             | 17.951                 |   nan |   nan |   nan |   nan |   nan |   nan |
-| AC                                                                                                   |        12 |          385 | Plácido de Castro                | 17.127                 |   nan |   nan |   nan |   nan |   nan |   nan |
-| AC                                                                                                   |        12 |          393 | Porto Walter                     | 11.275                 |   nan |   nan |   nan |   nan |   nan |   nan |
-| AC                                                                                                   |        12 |          401 | Rio Branco                       | 387.852                |   nan |   nan |   nan |   nan |   nan |   nan |
-| AC                                                                                                   |        12 |          427 | Rodrigues Alves                  | 15.537                 |   nan |   nan |   nan |   nan |   nan |   nan |
-| AC                                                                                                   |        12 |          435 | Santa Rosa do Purus              | 7.143                  |   nan |   nan |   nan |   nan |   nan |   nan |
-| AC                                                                                                   |        12 |          450 | Senador Guiomard                 | 22.352                 |   nan |   nan |   nan |   nan |   nan |   nan |
-| AC                                                                                                   |        12 |          500 | Sena Madureira                   | 43.916                 |   nan |   nan |   nan |   nan |   nan |   nan |
-| AC                                                                                                   |        12 |          609 | Tarauacá                         | 46.517                 |   nan |   nan |   nan |   nan |   nan |   nan |
-| AC                                                                                                   |        12 |          708 | Xapuri                           | 19.090                 |   nan |   nan |   nan |   nan |   nan |   nan |
-| AC                                                                                                   |        12 |          807 | Porto Acre                       | 17.455                 |   nan |   nan |   nan |   nan |   nan |   nan |
-| AM                                                                                                   |        13 |           29 | Alvarães                         | 16.670                 |   nan |   nan |   nan |   nan |   nan |   nan |
-| AM                                                                                                   |        13 |           60 | Amaturá                          | 11.411                 |   nan |   nan |   nan |   nan |   nan |   nan |
-| AM                                                                                                   |        13 |           86 | Anamã                            | 10.318                 |   nan |   nan |   nan |   nan |   nan |   nan |
-| AM                                                                                                   |        13 |          102 | Anori                            | 17.932                 |   nan |   nan |   nan |   nan |   nan |   nan |
-| AM                                                                                                   |        13 |          144 | Apuí                             | 21.735                 |   nan |   nan |   nan |   nan |   nan |   nan |
-| AM                                                                                                   |        13 |          201 | Atalaia do Norte                 | 15.892                 |   nan |   nan |   nan |   nan |   nan |   nan |
-| AM                                                                                                   |        13 |          300 | Autazes                          | 45.328                 |   nan |   nan |   nan |   nan |   nan |   nan |
-| AM                                                                                                   |        13 |          409 | Barcelos                         | 18.626                 |   nan |   nan |   nan |   nan |   nan |   nan |
-| AM                                                                                                   |        13 |          508 | Barreirinha                      | 33.436                 |   nan |   nan |   nan |   nan |   nan |   nan |
-| AM                                                                                                   |        13 |          607 | Benjamin Constant                | 40.509                 |   nan |   nan |   nan |   nan |   nan |   nan |
-| AM                                                                                                   |        13 |          631 | Beruri                           | 22.136                 |   nan |   nan |   nan |   nan |   nan |   nan |
-| AM                                                                                                   |        13 |          680 | Boa Vista do Ramos               | 25.769                 |   nan |   nan |   nan |   nan |   nan |   nan |
-| AM                                                                                                   |        13 |          706 | Boca do Acre                     | 38.246                 |   nan |   nan |   nan |   nan |   nan |   nan |
-| AM                                                                                                   |        13 |          805 | Borba                            | 34.879                 |   nan |   nan |   nan |   nan |   nan |   nan |
-| AM                                                                                                   |        13 |          839 | Caapiranga                       | 14.310                 |   nan |   nan |   nan |   nan |   nan |   nan |
-| AM                                                                                                   |        13 |          904 | Canutama                         | 17.885                 |   nan |   nan |   nan |   nan |   nan |   nan |
-| AM                                                                                                   |        13 |         1001 | Carauari                         | 30.892                 |   nan |   nan |   nan |   nan |   nan |   nan |
-| AM                                                                                                   |        13 |         1100 | Careiro                          | 32.442                 |   nan |   nan |   nan |   nan |   nan |   nan |
-| AM                                                                                                   |        13 |         1159 | Careiro da Várzea                | 19.809                 |   nan |   nan |   nan |   nan |   nan |   nan |
-| AM                                                                                                   |        13 |         1209 | Coari                            | 73.820                 |   nan |   nan |   nan |   nan |   nan |   nan |
-| AM                                                                                                   |        13 |         1308 | Codajás                          | 24.451                 |   nan |   nan |   nan |   nan |   nan |   nan |
-| AM                                                                                                   |        13 |         1407 | Eirunepé                         | 35.534                 |   nan |   nan |   nan |   nan |   nan |   nan |
-| AM                                                                                                   |        13 |         1506 | Envira                           | 17.920                 |   nan |   nan |   nan |   nan |   nan |   nan |
-| AM                                                                                                   |        13 |         1605 | Fonte Boa                        | 27.875                 |   nan |   nan |   nan |   nan |   nan |   nan |
-| AM                                                                                                   |        13 |         1654 | Guajará                          | 14.332                 |   nan |   nan |   nan |   nan |   nan |   nan |
-| AM                                                                                                   |        13 |         1704 | Humaitá                          | 62.312                 |   nan |   nan |   nan |   nan |   nan |   nan |
-| AM                                                                                                   |        13 |         1803 | Ipixuna                          | 25.458                 |   nan |   nan |   nan |   nan |   nan |   nan |
-| AM                                                                                                   |        13 |         1852 | Iranduba                         | 67.114                 |   nan |   nan |   nan |   nan |   nan |   nan |
-| AM                                                                                                   |        13 |         1902 | Itacoatiara                      | 112.520                |   nan |   nan |   nan |   nan |   nan |   nan |
-| AM                                                                                                   |        13 |         1951 | Itamarati                        | 11.730                 |   nan |   nan |   nan |   nan |   nan |   nan |
-| AM                                                                                                   |        13 |         2009 | Itapiranga                       | 10.805                 |   nan |   nan |   nan |   nan |   nan |   nan |
-| AM                                                                                                   |        13 |         2108 | Japurá                           | 9.397                  |   nan |   nan |   nan |   nan |   nan |   nan |
-| AM                                                                                                   |        13 |         2207 | Juruá                            | 11.152                 |   nan |   nan |   nan |   nan |   nan |   nan |
-| AM                                                                                                   |        13 |         2306 | Jutaí                            | 27.656                 |   nan |   nan |   nan |   nan |   nan |   nan |
-| AM                                                                                                   |        13 |         2405 | Lábrea                           | 48.927                 |   nan |   nan |   nan |   nan |   nan |   nan |
-| AM                                                                                                   |        13 |         2504 | Manacapuru                       | 110.691                |   nan |   nan |   nan |   nan |   nan |   nan |
-| AM                                                                                                   |        13 |         2553 | Manaquiri                        | 17.009                 |   nan |   nan |   nan |   nan |   nan |   nan |
-| AM                                                                                                   |        13 |         2603 | Manaus                           | 2.279.686              |   nan |   nan |   nan |   nan |   nan |   nan |
-| AM                                                                                                   |        13 |         2702 | Manicoré                         | 57.758                 |   nan |   nan |   nan |   nan |   nan |   nan |
-| AM                                                                                                   |        13 |         2801 | Maraã                            | 15.843                 |   nan |   nan |   nan |   nan |   nan |   nan |
-| AM                                                                                                   |        13 |         2900 | Maués                            | 65.714                 |   nan |   nan |   nan |   nan |   nan |   nan |
-| AM                                                                                                   |        13 |         3007 | Nhamundá                         | 21.106                 |   nan |   nan |   nan |   nan |   nan |   nan |
-| AM                                                                                                   |        13 |         3106 | Nova Olinda do Norte             | 28.267                 |   nan |   nan |   nan |   nan |   nan |   nan |
-| AM                                                                                                   |        13 |         3205 | Novo Airão                       | 16.467                 |   nan |   nan |   nan |   nan |   nan |   nan |
-| AM                                                                                                   |        13 |         3304 | Novo Aripuanã                    | 24.987                 |   nan |   nan |   nan |   nan |   nan |   nan |
-| AM                                                                                                   |        13 |         3403 | Parintins                        | 101.956                |   nan |   nan |   nan |   nan |   nan |   nan |
-| AM                                                                                                   |        13 |         3502 | Pauini                           | 20.232                 |   nan |   nan |   nan |   nan |   nan |   nan |
-| AM                                                                                                   |        13 |         3536 | Presidente Figueiredo            | 33.004                 |   nan |   nan |   nan |   nan |   nan |   nan |
-| AM                                                                                                   |        13 |         3569 | Rio Preto da Eva                 | 25.723                 |   nan |   nan |   nan |   nan |   nan |   nan |
-| AM                                                                                                   |        13 |         3601 | Santa Isabel do Rio Negro        | 14.176                 |   nan |   nan |   nan |   nan |   nan |   nan |
-| AM                                                                                                   |        13 |         3700 | Santo Antônio do Içá             | 30.448                 |   nan |   nan |   nan |   nan |   nan |   nan |
-| AM                                                                                                   |        13 |         3809 | São Gabriel da Cachoeira         | 56.406                 |   nan |   nan |   nan |   nan |   nan |   nan |
-| AM                                                                                                   |        13 |         3908 | São Paulo de Olivença            | 35.196                 |   nan |   nan |   nan |   nan |   nan |   nan |
-| AM                                                                                                   |        13 |         3957 | São Sebastião do Uatumã          | 12.247                 |   nan |   nan |   nan |   nan |   nan |   nan |
-| AM                                                                                                   |        13 |         4005 | Silves                           | 12.404                 |   nan |   nan |   nan |   nan |   nan |   nan |
-| AM                                                                                                   |        13 |         4062 | Tabatinga                        | 72.283                 |   nan |   nan |   nan |   nan |   nan |   nan |
-| AM                                                                                                   |        13 |         4104 | Tapauá                           | 20.501                 |   nan |   nan |   nan |   nan |   nan |   nan |
-| AM                                                                                                   |        13 |         4203 | Tefé                             | 79.278                 |   nan |   nan |   nan |   nan |   nan |   nan |
-| AM                                                                                                   |        13 |         4237 | Tonantins                        | 20.224                 |   nan |   nan |   nan |   nan |   nan |   nan |
-| AM                                                                                                   |        13 |         4260 | Uarini                           | 15.278                 |   nan |   nan |   nan |   nan |   nan |   nan |
-| AM                                                                                                   |        13 |         4302 | Urucará                          | 19.505                 |   nan |   nan |   nan |   nan |   nan |   nan |
-| AM                                                                                                   |        13 |         4401 | Urucurituba                      | 25.592                 |   nan |   nan |   nan |   nan |   nan |   nan |
-| RR                                                                                                   |        14 |           27 | Amajari                          | 15.583                 |   nan |   nan |   nan |   nan |   nan |   nan |
-| RR                                                                                                   |        14 |           50 | Alto Alegre                      | 23.049                 |   nan |   nan |   nan |   nan |   nan |   nan |
-| RR                                                                                                   |        14 |          100 | Boa Vista                        | 470.169                |   nan |   nan |   nan |   nan |   nan |   nan |
-| RR                                                                                                   |        14 |          159 | Bonfim                           | 15.222                 |   nan |   nan |   nan |   nan |   nan |   nan |
-| RR                                                                                                   |        14 |          175 | Cantá                            | 20.552                 |   nan |   nan |   nan |   nan |   nan |   nan |
-| RR                                                                                                   |        14 |          209 | Caracaraí                        | 22.443                 |   nan |   nan |   nan |   nan |   nan |   nan |
-| RR                                                                                                   |        14 |          233 | Caroebe                          | 11.708                 |   nan |   nan |   nan |   nan |   nan |   nan |
-| RR                                                                                                   |        14 |          282 | Iracema                          | 10.778                 |   nan |   nan |   nan |   nan |   nan |   nan |
-| RR                                                                                                   |        14 |          308 | Mucajaí                          | 19.619                 |   nan |   nan |   nan |   nan |   nan |   nan |
-| RR                                                                                                   |        14 |          407 | Normandia                        | 15.744                 |   nan |   nan |   nan |   nan |   nan |   nan |
-| RR                                                                                                   |        14 |          456 | Pacaraima                        | 22.104                 |   nan |   nan |   nan |   nan |   nan |   nan |
-| RR                                                                                                   |        14 |          472 | Rorainópolis                     | 36.747                 |   nan |   nan |   nan |   nan |   nan |   nan |
-| RR                                                                                                   |        14 |          506 | São João da Baliza               | 9.727                  |   nan |   nan |   nan |   nan |   nan |   nan |
-| RR                                                                                                   |        14 |          605 | São Luiz                         | 7.777                  |   nan |   nan |   nan |   nan |   nan |   nan |
-| RR                                                                                                   |        14 |          704 | Uiramutã                         | 15.571                 |   nan |   nan |   nan |   nan |   nan |   nan |
-| PA                                                                                                   |        15 |          107 | Abaetetuba                       | 170.999                |   nan |   nan |   nan |   nan |   nan |   nan |
-| PA                                                                                                   |        15 |          131 | Abel Figueiredo                  | 6.302                  |   nan |   nan |   nan |   nan |   nan |   nan |
-| PA                                                                                                   |        15 |          206 | Acará                            | 62.701                 |   nan |   nan |   nan |   nan |   nan |   nan |
-| PA                                                                                                   |        15 |          305 | Afuá                             | 40.246                 |   nan |   nan |   nan |   nan |   nan |   nan |
-| PA                                                                                                   |        15 |          347 | Água Azul do Norte               | 17.960                 |   nan |   nan |   nan |   nan |   nan |   nan |
-| PA                                                                                                   |        15 |          404 | Alenquer                         | 74.836                 |   nan |   nan |   nan |   nan |   nan |   nan |
-| PA                                                                                                   |        15 |          503 | Almeirim                         | 36.334                 |   nan |   nan |   nan |   nan |   nan |   nan |
-| PA                                                                                                   |        15 |          602 | Altamira                         | 136.982                |   nan |   nan |   nan |   nan |   nan |   nan |
-| PA                                                                                                   |        15 |          701 | Anajás                           | 30.003                 |   nan |   nan |   nan |   nan |   nan |   nan |
-| PA                                                                                                   |        15 |          800 | Ananindeua                       | 507.838                |   nan |   nan |   nan |   nan |   nan |   nan |
-| PA                                                                                                   |        15 |          859 | Anapu                            | 34.947                 |   nan |   nan |   nan |   nan |   nan |   nan |
-| PA                                                                                                   |        15 |          909 | Augusto Corrêa                   | 47.596                 |   nan |   nan |   nan |   nan |   nan |   nan |
-| PA                                                                                                   |        15 |          958 | Aurora do Pará                   | 24.321                 |   nan |   nan |   nan |   nan |   nan |   nan |
-| PA                                                                                                   |        15 |         1006 | Aveiro                           | 19.223                 |   nan |   nan |   nan |   nan |   nan |   nan |
-| PA                                                                                                   |        15 |         1105 | Bagre                            | 34.633                 |   nan |   nan |   nan |   nan |   nan |   nan |
-| PA                                                                                                   |        15 |         1204 | Baião                            | 55.949                 |   nan |   nan |   nan |   nan |   nan |   nan |
+| UF| COD. UF   | COD. MUNIC   | NOME DO MUNICÍPIO                | POPULAÇÃO ESTIMADA     |
+|:-:|:---------:|:------------:|:---------------------------------|-----------------------:|
+| RO|        11 |           15 | Alta Floresta D'Oeste            | 22.853                 |   
+| RO|        11 |           23 | Ariquemes                        | 108.573                |
+| RO|        11 |           31 | Cabixi                           | 5.690                  |
+| RO|        11 |           49 | Cacoal                           | 97.637                 |
+| RO|        11 |           56 | Cerejeiras                       | 16.975                 |  
+| RO|        11 |           64 | Colorado do Oeste                | 16.588                 |   
+| RO|        11 |           72 | Corumbiara                       | 8.001                  |   
+| RO|        11 |           80 | Costa Marques                    | 13.522                 |   
+| RO|        11 |           98 | Espigão D'Oeste                  | 32.717                 |  
+| RO|        11 |          106 | Guajará-Mirim                    | 43.553                 |  
+| RO|        11 |          114 | Jaru                             | 55.583                 |  
+| RO|        11 |          122 | Ji-Paraná                        | 139.359                |   
+| RO|        11 |          130 | Machadinho D'Oeste               | 34.063                 |
+| RO|        11 |          148 | Nova Brasilândia D'Oeste         | 16.504                 | 
+| RO|        11 |          155 | Ouro Preto do Oeste              | 38.681                 | 
+| RO|        11 |          189 | Pimenta Bueno                    | 39.053                 |  
+| RO|        11 |          205 | Porto Velho                      | 514.873                |  
+| RO|        11 |          254 | Presidente Médici                | 20.518                 |  
+| RO|        11 |          262 | Rio Crespo                       | 3.753                  |   
+| RO|        11 |          288 | Rolim de Moura                   | 62.559                 |  
+| RO|        11 |          296 | Santa Luzia D'Oeste              | 7.877                  |  
+| RO|        11 |          304 | Vilhena                          | 108.528                |  
+| RO|        11 |          320 | São Miguel do Guaporé            | 22.267                 |   
+| RO|        11 |          338 | Nova Mamoré                      | 28.496                 |   
+| RO|        11 |          346 | Alvorada D'Oeste                 | 13.837                 |  
+| RO|        11 |          379 | Alto Alegre dos Parecis          | 12.263                 |  
+| RO|        11 |          403 | Alto Paraíso                     | 17.463                 |  
+| RO|        11 |          452 | Buritis                          | 30.729                 |  
+| RO|        11 |          502 | Novo Horizonte do Oeste          | 8.056                  |   
+| RO|        11 |          601 | Cacaulândia                      | 4.345                  |  
+| RO|        11 |          700 | Campo Novo de Rondônia           | 9.225                  |   
+| RO|        11 |          809 | Candeias do Jamari               | 24.163                 |   
+| RO|        11 |          908 | Castanheiras                     | 3.456                  |  
+| RO|        11 |          924 | Chupinguaia                      | 10.129                 |   
+| RO|        11 |          940 | Cujubim                          | 15.883                 |   
+| RO|        11 |         1005 | Governador Jorge Teixeira        | 8.420                  |
+| RO|        11 |         1104 | Itapuã do Oeste                  | 9.209                  |  
+| RO|        11 |         1203 | Ministro Andreazza               | 6.657                  |  
+| RO|        11 |         1302 | Mirante da Serra                 | 9.740                  |   
+| RO|        11 |         1401 | Monte Negro                      | 12.241                 |
+| RO|        11 |         1435 | Nova União                       | 6.577                  |   nan |   nan |   nan |   nan |   nan |   nan |
+| RO|        11 |         1450 | Parecis                          | 4.390                  |   nan |   nan |   nan |   nan |   nan |   nan |
+| RO|        11 |         1468 | Pimenteiras do Oeste             | 2.311                  |   nan |   nan |   nan |   nan |   nan |   nan |
+| RO|        11 |         1476 | Primavera de Rondônia            | 3.279                  |   nan |   nan |   nan |   nan |   nan |   nan |
+| RO|        11 |         1484 | São Felipe D'Oeste               | 5.605                  |   nan |   nan |   nan |   nan |   nan |   nan |
+| RO|        11 |         1492 | São Francisco do Guaporé         | 17.511                 |   nan |   nan |   nan |   nan |   nan |   nan |
+| RO|        11 |         1500 | Seringueiras                     | 12.954                 |   nan |   nan |   nan |   nan |   nan |   nan |
+| RO|        11 |         1559 | Teixeirópolis                    | 4.536                  |   nan |   nan |   nan |   nan |   nan |   nan |
+| RO|        11 |         1609 | Theobroma                        | 8.540                  |   nan |   nan |   nan |   nan |   nan |   nan |
+| RO|        11 |         1708 | Urupá                            | 11.377                 |   nan |   nan |   nan |   nan |   nan |   nan |
+| RO|        11 |         1757 | Vale do Anari                    | 8.265                  |   nan |   nan |   nan |   nan |   nan |   nan |
+| RO|        11 |         1807 | Vale do Paraíso                  | 6.843                  |   nan |   nan |   nan |   nan |   nan |   nan |
+| AC|        12 |           13 | Acrelândia                       | 14.657                 |   nan |   nan |   nan |   nan |   nan |   nan |
+| AC|        12 |           54 | Assis Brasil                     | 8.573                  |   nan |   nan |   nan |   nan |   nan |   nan |
+| AC|        12 |          104 | Brasiléia                        | 27.841                 |   nan |   nan |   nan |   nan |   nan |   nan |
+| AC|        12 |          138 | Bujari                           | 13.766                 |   nan |   nan |   nan |   nan |   nan |   nan |
+| AC|        12 |          179 | Capixaba                         | 10.922                 |   nan |   nan |   nan |   nan |   nan |   nan |
+| AC|        12 |          203 | Cruzeiro do Sul                  | 98.382                 |   nan |   nan |   nan |   nan |   nan |   nan |
+| AC|        12 |          252 | Epitaciolândia                   | 19.739                 |   nan |   nan |   nan |   nan |   nan |   nan |
+| AC|        12 |          302 | Feijó                            | 37.644                 |   nan |   nan |   nan |   nan |   nan |   nan |
+| AC|        12 |          328 | Jordão                           | 9.787                  |   nan |   nan |   nan |   nan |   nan |   nan |
+| AC|        12 |          336 | Mâncio Lima                      | 20.329                 |   nan |   nan |   nan |   nan |   nan |   nan |
+| AC|        12 |          344 | Manoel Urbano                    | 12.776                 |   nan |   nan |   nan |   nan |   nan |   nan |
+| AC|        12 |          351 | Marechal Thaumaturgo             | 17.951                 |   nan |   nan |   nan |   nan |   nan |   nan |
+| AC|        12 |          385 | Plácido de Castro                | 17.127                 |   nan |   nan |   nan |   nan |   nan |   nan |
+| AC|        12 |          393 | Porto Walter                     | 11.275                 |   nan |   nan |   nan |   nan |   nan |   nan |
+| AC|        12 |          401 | Rio Branco                       | 387.852                |   nan |   nan |   nan |   nan |   nan |   nan |
+| AC|        12 |          427 | Rodrigues Alves                  | 15.537                 |   nan |   nan |   nan |   nan |   nan |   nan |
+| AC|        12 |          435 | Santa Rosa do Purus              | 7.143                  |   nan |   nan |   nan |   nan |   nan |   nan |
+| AC|        12 |          450 | Senador Guiomard                 | 22.352                 |   nan |   nan |   nan |   nan |   nan |   nan |
+| AC|        12 |          500 | Sena Madureira                   | 43.916                 |   nan |   nan |   nan |   nan |   nan |   nan |
+| AC|        12 |          609 | Tarauacá                         | 46.517                 |   nan |   nan |   nan |   nan |   nan |   nan |
+| AC|        12 |          708 | Xapuri                           | 19.090                 |   nan |   nan |   nan |   nan |   nan |   nan |
+| AC|        12 |          807 | Porto Acre                       | 17.455                 |   nan |   nan |   nan |   nan |   nan |   nan |
+| AM|        13 |           29 | Alvarães                         | 16.670                 |   nan |   nan |   nan |   nan |   nan |   nan |
+| AM|        13 |           60 | Amaturá                          | 11.411                 |   nan |   nan |   nan |   nan |   nan |   nan |
+| AM|        13 |           86 | Anamã                            | 10.318                 |   nan |   nan |   nan |   nan |   nan |   nan |
+| AM|        13 |          102 | Anori                            | 17.932                 |   nan |   nan |   nan |   nan |   nan |   nan |
+| AM|        13 |          144 | Apuí                             | 21.735                 |   nan |   nan |   nan |   nan |   nan |   nan |
+| AM|        13 |          201 | Atalaia do Norte                 | 15.892                 |   nan |   nan |   nan |   nan |   nan |   nan |
+| AM|        13 |          300 | Autazes                          | 45.328                 |   nan |   nan |   nan |   nan |   nan |   nan |
+| AM|        13 |          409 | Barcelos                         | 18.626                 |   nan |   nan |   nan |   nan |   nan |   nan |
+| AM|        13 |          508 | Barreirinha                      | 33.436                 |   nan |   nan |   nan |   nan |   nan |   nan |
+| AM|        13 |          607 | Benjamin Constant                | 40.509                 |   nan |   nan |   nan |   nan |   nan |   nan |
+| AM|        13 |          631 | Beruri                           | 22.136                 |   nan |   nan |   nan |   nan |   nan |   nan |
+| AM|        13 |          680 | Boa Vista do Ramos               | 25.769                 |   nan |   nan |   nan |   nan |   nan |   nan |
+| AM|        13 |          706 | Boca do Acre                     | 38.246                 |   nan |   nan |   nan |   nan |   nan |   nan |
+| AM|        13 |          805 | Borba                            | 34.879                 |   nan |   nan |   nan |   nan |   nan |   nan |
+| AM|        13 |          839 | Caapiranga                       | 14.310                 |   nan |   nan |   nan |   nan |   nan |   nan |
+| AM|        13 |          904 | Canutama                         | 17.885                 |   nan |   nan |   nan |   nan |   nan |   nan |
+| AM|        13 |         1001 | Carauari                         | 30.892                 |   nan |   nan |   nan |   nan |   nan |   nan |
+| AM|        13 |         1100 | Careiro                          | 32.442                 |   nan |   nan |   nan |   nan |   nan |   nan |
+| AM|        13 |         1159 | Careiro da Várzea                | 19.809                 |   nan |   nan |   nan |   nan |   nan |   nan |
+| AM|        13 |         1209 | Coari                            | 73.820                 |   nan |   nan |   nan |   nan |   nan |   nan |
+| AM|        13 |         1308 | Codajás                          | 24.451                 |   nan |   nan |   nan |   nan |   nan |   nan |
+| AM|        13 |         1407 | Eirunepé                         | 35.534                 |   nan |   nan |   nan |   nan |   nan |   nan |
+| AM|        13 |         1506 | Envira                           | 17.920                 |   nan |   nan |   nan |   nan |   nan |   nan |
+| AM|        13 |         1605 | Fonte Boa                        | 27.875                 |   nan |   nan |   nan |   nan |   nan |   nan |
+| AM|        13 |         1654 | Guajará                          | 14.332                 |   nan |   nan |   nan |   nan |   nan |   nan |
+| AM|        13 |         1704 | Humaitá                          | 62.312                 |   nan |   nan |   nan |   nan |   nan |   nan |
+| AM|        13 |         1803 | Ipixuna                          | 25.458                 |   nan |   nan |   nan |   nan |   nan |   nan |
+| AM|        13 |         1852 | Iranduba                         | 67.114                 |   nan |   nan |   nan |   nan |   nan |   nan |
+| AM|        13 |         1902 | Itacoatiara                      | 112.520                |   nan |   nan |   nan |   nan |   nan |   nan |
+| AM|        13 |         1951 | Itamarati                        | 11.730                 |   nan |   nan |   nan |   nan |   nan |   nan |
+| AM|        13 |         2009 | Itapiranga                       | 10.805                 |   nan |   nan |   nan |   nan |   nan |   nan |
+| AM|        13 |         2108 | Japurá                           | 9.397                  |   nan |   nan |   nan |   nan |   nan |   nan |
+| AM|        13 |         2207 | Juruá                            | 11.152                 |   nan |   nan |   nan |   nan |   nan |   nan |
+| AM|        13 |         2306 | Jutaí                            | 27.656                 |   nan |   nan |   nan |   nan |   nan |   nan |
+| AM|        13 |         2405 | Lábrea                           | 48.927                 |   nan |   nan |   nan |   nan |   nan |   nan |
+| AM|        13 |         2504 | Manacapuru                       | 110.691                |   nan |   nan |   nan |   nan |   nan |   nan |
+| AM|        13 |         2553 | Manaquiri                        | 17.009                 |   nan |   nan |   nan |   nan |   nan |   nan |
+| AM|        13 |         2603 | Manaus                           | 2.279.686              |   nan |   nan |   nan |   nan |   nan |   nan |
+| AM|        13 |         2702 | Manicoré                         | 57.758                 |   nan |   nan |   nan |   nan |   nan |   nan |
+| AM|        13 |         2801 | Maraã                            | 15.843                 |   nan |   nan |   nan |   nan |   nan |   nan |
+| AM|        13 |         2900 | Maués                            | 65.714                 |   nan |   nan |   nan |   nan |   nan |   nan |
+| AM|        13 |         3007 | Nhamundá                         | 21.106                 |   nan |   nan |   nan |   nan |   nan |   nan |
+| AM|        13 |         3106 | Nova Olinda do Norte             | 28.267                 |   nan |   nan |   nan |   nan |   nan |   nan |
+| AM|        13 |         3205 | Novo Airão                       | 16.467                 |   nan |   nan |   nan |   nan |   nan |   nan |
+| AM|        13 |         3304 | Novo Aripuanã                    | 24.987                 |   nan |   nan |   nan |   nan |   nan |   nan |
+| AM|        13 |         3403 | Parintins                        | 101.956                |   nan |   nan |   nan |   nan |   nan |   nan |
+| AM|        13 |         3502 | Pauini                           | 20.232                 |   nan |   nan |   nan |   nan |   nan |   nan |
+| AM|        13 |         3536 | Presidente Figueiredo            | 33.004                 |   nan |   nan |   nan |   nan |   nan |   nan |
+| AM|        13 |         3569 | Rio Preto da Eva                 | 25.723                 |   nan |   nan |   nan |   nan |   nan |   nan |
+| AM|        13 |         3601 | Santa Isabel do Rio Negro        | 14.176                 |   nan |   nan |   nan |   nan |   nan |   nan |
+| AM|        13 |         3700 | Santo Antônio do Içá             | 30.448                 |   nan |   nan |   nan |   nan |   nan |   nan |
+| AM|        13 |         3809 | São Gabriel da Cachoeira         | 56.406                 |   nan |   nan |   nan |   nan |   nan |   nan |
+| AM|        13 |         3908 | São Paulo de Olivença            | 35.196                 |   nan |   nan |   nan |   nan |   nan |   nan |
+| AM|        13 |         3957 | São Sebastião do Uatumã          | 12.247                 |   nan |   nan |   nan |   nan |   nan |   nan |
+| AM|        13 |         4005 | Silves                           | 12.404                 |   nan |   nan |   nan |   nan |   nan |   nan |
+| AM|        13 |         4062 | Tabatinga                        | 72.283                 |   nan |   nan |   nan |   nan |   nan |   nan |
+| AM|        13 |         4104 | Tapauá                           | 20.501                 |   nan |   nan |   nan |   nan |   nan |   nan |
+| AM|        13 |         4203 | Tefé                             | 79.278                 |   nan |   nan |   nan |   nan |   nan |   nan |
+| AM|        13 |         4237 | Tonantins                        | 20.224                 |   nan |   nan |   nan |   nan |   nan |   nan |
+| AM|        13 |         4260 | Uarini                           | 15.278                 |   nan |   nan |   nan |   nan |   nan |   nan |
+| AM|        13 |         4302 | Urucará                          | 19.505                 |   nan |   nan |   nan |   nan |   nan |   nan |
+| AM|        13 |         4401 | Urucurituba                      | 25.592                 |   nan |   nan |   nan |   nan |   nan |   nan |
+| RR|        14 |           27 | Amajari                          | 15.583                 |   nan |   nan |   nan |   nan |   nan |   nan |
+| RR|        14 |           50 | Alto Alegre                      | 23.049                 |   nan |   nan |   nan |   nan |   nan |   nan |
+| RR|        14 |          100 | Boa Vista                        | 470.169                |   nan |   nan |   nan |   nan |   nan |   nan |
+| RR|        14 |          159 | Bonfim                           | 15.222                 |   nan |   nan |   nan |   nan |   nan |   nan |
+| RR|        14 |          175 | Cantá                            | 20.552                 |   nan |   nan |   nan |   nan |   nan |   nan |
+| RR|        14 |          209 | Caracaraí                        | 22.443                 |   nan |   nan |   nan |   nan |   nan |   nan |
+| RR|        14 |          233 | Caroebe                          | 11.708                 |   nan |   nan |   nan |   nan |   nan |   nan |
+| RR|        14 |          282 | Iracema                          | 10.778                 |   nan |   nan |   nan |   nan |   nan |   nan |
+| RR|        14 |          308 | Mucajaí                          | 19.619                 |   nan |   nan |   nan |   nan |   nan |   nan |
+| RR|        14 |          407 | Normandia                        | 15.744                 |   nan |   nan |   nan |   nan |   nan |   nan |
+| RR|        14 |          456 | Pacaraima                        | 22.104                 |   nan |   nan |   nan |   nan |   nan |   nan |
+| RR|        14 |          472 | Rorainópolis                     | 36.747                 |   nan |   nan |   nan |   nan |   nan |   nan |
+| RR|        14 |          506 | São João da Baliza               | 9.727                  |   nan |   nan |   nan |   nan |   nan |   nan |
+| RR|        14 |          605 | São Luiz                         | 7.777                  |   nan |   nan |   nan |   nan |   nan |   nan |
+| RR|        14 |          704 | Uiramutã                         | 15.571                 |   nan |   nan |   nan |   nan |   nan |   nan |
+| PA|        15 |          107 | Abaetetuba                       | 170.999                |   nan |   nan |   nan |   nan |   nan |   nan |
+| PA|        15 |          131 | Abel Figueiredo                  | 6.302                  |   nan |   nan |   nan |   nan |   nan |   nan |
+| PA|        15 |          206 | Acará                            | 62.701                 |   nan |   nan |   nan |   nan |   nan |   nan |
+| PA|        15 |          305 | Afuá                             | 40.246                 |   nan |   nan |   nan |   nan |   nan |   nan |
+| PA|        15 |          347 | Água Azul do Norte               | 17.960                 |   nan |   nan |   nan |   nan |   nan |   nan |
+| PA|        15 |          404 | Alenquer                         | 74.836                 |   nan |   nan |   nan |   nan |   nan |   nan |
+| PA|        15 |          503 | Almeirim                         | 36.334                 |   nan |   nan |   nan |   nan |   nan |   nan |
+| PA|        15 |          602 | Altamira                         | 136.982                |   nan |   nan |   nan |   nan |   nan |   nan |
+| PA|        15 |          701 | Anajás                           | 30.003                 |   nan |   nan |   nan |   nan |   nan |   nan |
+| PA|        15 |          800 | Ananindeua                       | 507.838                |   nan |   nan |   nan |   nan |   nan |   nan |
+| PA|        15 |          859 | Anapu                            | 34.947                 |   nan |   nan |   nan |   nan |   nan |   nan |
+| PA|        15 |          909 | Augusto Corrêa                   | 47.596                 |   nan |   nan |   nan |   nan |   nan |   nan |
+| PA|        15 |          958 | Aurora do Pará                   | 24.321                 |   nan |   nan |   nan |   nan |   nan |   nan |
+| PA|        15 |         1006 | Aveiro                           | 19.223                 |   nan |   nan |   nan |   nan |   nan |   nan |
+| PA|        15 |         1105 | Bagre                            | 34.633                 |   nan |   nan |   nan |   nan |   nan |   nan |
+| PA|        15 |         1204 | Baião                            | 55.949                 |   nan |   nan |   nan |   nan |   nan |   nan |
 | PA                                                                                                   |        15 |         1253 | Bannach                          | 4.252                  |   nan |   nan |   nan |   nan |   nan |   nan |
 | PA                                                                                                   |        15 |         1303 | Barcarena                        | 137.331                |   nan |   nan |   nan |   nan |   nan |   nan |
 | PA                                                                                                   |        15 |         1402 | Belém                            | 1.398.531              |   nan |   nan |   nan |   nan |   nan |   nan |
